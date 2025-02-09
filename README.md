@@ -6,9 +6,9 @@ Code  for 'Phenotypic plasticity shapes the elevation range of Himalayan altitud
    
 3) Bush_robin_code.zip contains 3 R scripts for relevant analyses, including:
 
-  R-script-for-DEG analysis.r
-  R-script-for-WGCNA.r
-  R-script-for-vector analysis.r
+  R-script-for-DEG analysis_v1.r
+  R-script-for-WGCNA_v1.r
+  R-script-for-vector analysis_v1.r
 
 The version of R software and how to install them can be found on each script. R version 4.2.0 was used to conduct all R analyses.
 
