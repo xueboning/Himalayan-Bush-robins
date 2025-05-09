@@ -1,6 +1,6 @@
 # Himalayan-Bush-robins
 
-Scripts for Xue et al. (2025): *Phenotypic plasticity co-varies with the elevation range of Himalayan elevational migrants*
+Scripts for Xue et al. (2025): *Phenotypic plasticity co-varies with elevation range in two species of avian elevation migrants in the Himalayas*
 
 **CODE OVERVIEW**
 - We used two species, *Tarsiger chrysaeus* and *Tarsiger indicus*, in our study. The prefixes for species-related codes and data were abbreviated as TC and TI, respectively.
